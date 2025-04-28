@@ -7,8 +7,8 @@ The goal is to practice solving SQL problems directly on **Microsoft SQL Server*
 
 ## 📂 Folder Structure
 
-- **datasets/** — Full SQL script with table creations, inserts, and sample `SELECT` queries.
-- **questions/** — Rephrased problem descriptions divided into:
+- **datasets** — Full SQL script with table creations, inserts, and sample `SELECT` queries.
+- **questions** — Rephrased problem descriptions divided into:
   - Easy
   - Medium
   - Hard
@@ -17,7 +17,7 @@ Level   | Number of Questions
 Easy    | 41
 Medium  | 23
 Hard    | 2
-- **solutions/** - Will be updated 
+- **solutions** - Will be updated 
 
 ---
 
