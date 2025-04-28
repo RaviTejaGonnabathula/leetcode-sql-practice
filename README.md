@@ -23,10 +23,19 @@ leetcode-sql-practice/
 │   ├── Hard/
 │   │    ├── 1179_reformat_department_table.md
 │   │    └── 1212_team_scores_in_football_tournament.md
-│
-├── README.md
-│
-└── LICENSE (MIT License or leave it if you don't want licensing)
+├── Solutions/
+│   ├── Easy/
+│   │    ├── 175_combine_two_tables.md
+│   │    ├── 176_second_highest_salary.md
+│   │    └── ... (easy questions)
+│   ├── Medium/
+│   │    ├── 177_nth_highest_salary.md
+│   │    ├── 534_game_play_analysis_iii.md
+│   │    └── ... (medium questions)
+│   ├── Hard/
+│   │    ├── 1179_reformat_department_table.md
+│   │    └── 1212_team_scores_in_football_tournament.md
+└── README.md
 ```
 
 
