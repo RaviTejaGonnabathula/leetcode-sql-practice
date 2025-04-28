@@ -4,7 +4,7 @@ This repository contains datasets and problem statements for 66 popular SQL ques
 The goal is to practice solving SQL problems directly on **Microsoft SQL Server** using clean sample datasets.
 
 ## 📂 Directory/Folder Structure:
-```rust
+```
 leetcode-sql-practice/
 │
 ├── datasets/
