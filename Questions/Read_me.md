@@ -11,7 +11,8 @@
 
 ---
 
-## 📢 Summary:
+## 📢 Summary
+```rust
 
 | Level   | Number of Questions |
 |:--------|:--------------------|
