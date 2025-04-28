@@ -6,15 +6,11 @@ The goal is to practice solving SQL problems directly on **Microsoft SQL Server*
 ## 📂 Directory/Folder Structure:
 
 leetcode-sql-practice/
-
+  ```rust
 │
-
 ├── datasets/
-
 │   ├── leetcode_sql_practice_dataset.sql
-
 │   └── README_DATASETS.md
-
 │
 ├── questions/
 │   ├── Easy/
