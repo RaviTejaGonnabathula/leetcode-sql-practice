@@ -1,11 +1,3 @@
-# 🎯 Pro Tip for You
-
-- ✅ Start solving all the **Easy** ones in order.
-- ✅ After you are confident, jump to **Medium**, then **Hard**.
-
-*(Easy ones will make your joins, group by, window functions very strong before you touch harder ones.)*
-
----
 
 # 📋 Categorized Difficulty List for Your 66 SQL Questions
 
@@ -94,4 +86,12 @@
 | 1212 | Hard | Team Scores in Football Tournament |
 ```
 
+# 🎯 Pro Tip for You
+
+- ✅ Start solving all the **Easy** ones in order.
+- ✅ After you are confident, jump to **Medium**, then **Hard**.
+
+*(Easy ones will make your joins, group by, window functions very strong before you touch harder ones.)*
+
+---
 
