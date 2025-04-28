@@ -6,7 +6,7 @@
    ```sql
    CREATE DATABASE Leetcode;
    USE Leetcode;
-
+4. Execute leetcode_sql_practice_dataset.sql
 ```
 
 # 📋 List of Tables Created:
