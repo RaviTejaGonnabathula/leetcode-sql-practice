@@ -6,7 +6,6 @@ The goal is to practice solving SQL problems directly on **Microsoft SQL Server*
 ## 📂 Directory/Folder Structure:
 
 leetcode-sql-practice/
-  ```rust
 │
 ├── datasets/
 │   ├── leetcode_sql_practice_dataset.sql
@@ -24,18 +23,12 @@ leetcode-sql-practice/
 │   ├── Hard/
 │   │    ├── 1179_reformat_department_table.md
 │   │    └── 1212_team_scores_in_football_tournament.md
-├── Solutions/
-│   ├── Easy/
-│   │    ├── 175_combine_two_tables.md
-│   │    ├── 176_second_highest_salary.md
-│   │    └── ... (easy questions)
-│   ├── Medium/
-│   │    ├── 177_nth_highest_salary.md
-│   │    ├── 534_game_play_analysis_iii.md
-│   │    └── ... (medium questions)
-│   ├── Hard/
-         ├── 1179_reformat_department_table.md
-         └── 1212_team_scores_in_football_tournament.md
+│
+├── README.md
+│
+└── LICENSE (MIT License or leave it if you don't want licensing)
+
+
 
 
 
