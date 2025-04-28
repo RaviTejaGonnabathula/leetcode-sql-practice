@@ -40,6 +40,5 @@ Hard    | 2
 2. Open Microsoft SQL Server Management Studio (SSMS).
 3. Create a new database (e.g., `Leetcode`).
 4. Load the full dataset:
-   ```sql
-   USE Leetcode;
+
 
